@@ -1,0 +1,16 @@
+{
+  "name": "GabeGPT",
+  "version": "1.0.0",
+  "description": "Kostenloser KI-Chatbot mit HuggingFace + GitHub Pages",
+  "author": "You",
+  "license": "MIT",
+  "scripts": {
+    "dev": "python app.py",
+    "start": "python app.py"
+  },
+  "dependencies": {
+    "gradio": "^4.26.0",
+    "transformers": "^4.36.2",
+    "torch": "^2.1.2"
+  }
+}
